@@ -39,10 +39,10 @@ Usare questo materiale solo ed esclusivamente per esercitarsi.
 Sono presenti 2/3 esercizi per ogni file.
 
 L'ordine di difficoltà è crescente:
-1. file1.py
-2. file2.py
-3. file3.py
-4. file4.py
+1.file1.py
+2.file2.py
+3.file3.py
+4.file4.py
 
 
 Tutti i file sono scritti in Python.

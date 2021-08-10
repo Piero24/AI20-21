@@ -8,7 +8,7 @@
 ---
 **Multilanguage**
 
-*Versioni in altre lingue:* [English](https://github.com/Piero24/F.SW16-17/blob/main/README-EN.md) - [Italiano](https://github.com/Piero24/F.SW16-17/blob/main/README.md)
+*Versioni in altre lingue:* [English](https://github.com/Piero24/AI20-21/blob/main/README-EN.md) - [Italiano](https://github.com/Piero24/AI20-21/blob/main/README.md)
 
 ## Esercizi di programmazione in python per il corso di fondamenti di intelligenza artificiale
 

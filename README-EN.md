@@ -8,9 +8,8 @@
 ---
 **Multilanguage**
 
-*Versions in other languages:*
+*Versions in other languages:* [English](https://github.com/Piero24/AI20-21/blob/main/README-EN.md) - [Italiano](https://github.com/Piero24/AI20-21/blob/main/README.md)
 
-https://github.com/Piero24/AI20-21#readme
 
 ## Python programming exercises for the artificial intelligence fundamentals course
 

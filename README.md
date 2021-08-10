@@ -36,15 +36,7 @@ Usare questo materiale solo ed esclusivamente per esercitarsi.
 ## Descrizione
 
 
-Sono presenti un esercizio per tipologia.
-
-- Liste
-- Code
-- Doppie Code
-- Mappe
-- Dizionari
-- Insiemi
-- ecc..
+Sono presenti 2/3 esercizi per ogni file.
 
 Tutti i file sono scritti in Python.
 

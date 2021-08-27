@@ -1,6 +1,5 @@
 
 
-
 # Esercizio 1
 #
 # Scrivere una funzione massimo(a,b) che prende due numeri come parametri e restituisce:

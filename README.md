@@ -1,5 +1,5 @@
 [![Last modified](https://img.shields.io/badge/Last%20modified-10--Aug--2021-red)](https://github.com/Piero24/F.SW16-17)
-# AI20-21
+# Artificial-Intelligence_20-21
 
 > anno accademico 2019-2020 (unipd)
 > 
@@ -8,7 +8,7 @@
 ---
 **Multilanguage**
 
-*Versioni in altre lingue:* [English](https://github.com/Piero24/AI20-21/blob/main/README-EN.md) - [Italiano](https://github.com/Piero24/AI20-21/blob/main/README.md)
+*Versioni in altre lingue:* [English](https://github.com/Piero24/Artificial-Intelligence_20-21/blob/main/README-EN.md) - [Italiano](https://github.com/Piero24/Artificial-Intelligence_20-21/blob/main/README.md)
 
 ## Esercizi di programmazione in python per il corso di fondamenti di intelligenza artificiale
 

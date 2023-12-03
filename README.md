@@ -1,45 +1,46 @@
 [![Last modified](https://img.shields.io/badge/Last%20modified-10--Aug--2021-red)](https://github.com/Piero24/F.SW16-17)
 # Artificial-Intelligence_20-21
 
-> anno accademico 2019-2020 (unipd)
-> 
-> Università degli studi di Padova
+> academic year 2019-2020 (unipd)
+>
+> University of Padua
 
 ---
 **Multilanguage**
 
-*Versioni in altre lingue:* [English](https://github.com/Piero24/Artificial-Intelligence_20-21/blob/main/README-EN.md) - [Italiano](https://github.com/Piero24/Artificial-Intelligence_20-21/blob/main/README.md)
-
-## Esercizi di programmazione in python per il corso di fondamenti di intelligenza artificiale
+*Versions in other languages:* [English](https://github.com/Piero24/Artificial-Intelligence_20-21/blob/main/README-EN.md) - [Italiano](https://github.com/Piero24/Artificial-Intelligence_20-21/blob/main/README.md)
 
 
-Homework assegnati dal docente per sviluppare un minimo di competenze in python e apprendere le basi di alcuni algoritmi.
+## Python programming exercises for the artificial intelligence fundamentals course
 
-Qui è presente una raccolta con le relative soluzioni.
 
-La prova consiste nella risoluzione degli esercizi elencati.
+Homework assigned by the teacher to develop a minimum of skills in python and learn the basics of some algorithms.
+
+Here is a collection with related solutions.
+
+The test consists in solving the listed exercises.
 
 
 ## Disclaimer
 
 
-Questi esercizi devono essere utilizzati ESCLUSIVAMENTE per esercitarsi.
+These exercises should ONLY be used for practicing.
 
 
-**NON SONO IN ALCUN MODO RESPONSABILE DELL'UTILIZZO INPROPRIO DEL PRESENTE MATERIALE.**
+**I AM IN NO WAY RESPONSIBLE FOR MISUSE OF THIS MATERIAL.**
 
 
-**NON** basarsi esclusivamente sui seguenti esercizi per la preparazione.
-In quanto il programma del corso potrebbe variare durante gli anni.
-Usare questo materiale solo ed esclusivamente per esercitarsi.
+**DO NOT** rely solely on the following exercises for preparation.
+As the course program may vary over the years.
+Use this material only and exclusively for practice.
 
 
-## Descrizione
+## Description
 
 
-Sono presenti 2/3 esercizi per ogni file.
+There are 2/3 exercises for each file.
 
-L'ordine di difficoltà è crescente:
+The order of difficulty is increasing:
 
 1. file1.py
 2. file2.py
@@ -47,7 +48,7 @@ L'ordine di difficoltà è crescente:
 4. file4.py
 
 
-Tutti i file sono scritti in Python.
+All files are written in Python.
 
 
 ### Authors and Copyright
@@ -56,4 +57,4 @@ Pietrobon Andrea
 
 ### Note
 
-Questo materiale **NON** verrà più aggiornato in futuro.
+This material will **NOT** be updated in the future.
